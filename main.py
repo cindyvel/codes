@@ -46,7 +46,9 @@ try:
            f.close()
 
        # print(client.raw_data(ip_address[ipval]))
-
+      #Working code until here.
+      
+   #From here, it's not done. This section is not currently working, it it being tested with a single json file while having everything else commented. 
         filename = "51.46.189.11.json"
         path = r"C:\Users\c.velarde.moreno\PycharmProjects\pythonclasses\jsonips\51.46.189.11.json"
 
